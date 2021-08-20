@@ -22,8 +22,7 @@ This project consists in the creation of a full FPS game directly inspired from
 
 <p>
 This graphic engine is one of the major features of this project, as the project originally requires to use the ray-casting technique to render our scenes.
-This engine is made from absolute scratch, by following the excellent <a href="https://www.youtube.com/watch?v=ih20l3pJoeU">tutorial</a> made by One Lone Coder on rasterization.
-We then adapted our code with multiples optimizations, such as an implementation of threads pool to divide the work-group.<br/>
+This engine is made from absolute scratch, by following the excellent <a href="https://www.youtube.com/watch?v=ih20l3pJoeU">tutorial</a> made by One Lone Coder on rasterization. We then adapted our code with multiples optimizations, such as an implementation of threads pool to divide the work-group.
 This implementation of rasterization allowed us to create objects in our scenes, and to load textured .obj files into them, which will be useful for a lot of features of this project.
 </p>
 
