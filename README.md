@@ -16,6 +16,9 @@ This project consists in the creation of a full FPS game directly inspired from
 <h2> Features </h2>
 <h3> Rasterization Graphic Engine </h3>
 
+![Capture d’écran 2021-08-20 à 18 09 26](https://user-images.githubusercontent.com/44742651/130262653-bdf38683-360b-4bb5-8266-9b5f2f30c35f.png)
+
+![Capture d’écran 2021-08-20 à 18 09 33](https://user-images.githubusercontent.com/44742651/130262667-9156f0fc-e6fa-49f1-8f78-bb5dcc811f9d.png)
 
 <p>This graphic engine is one of the major features of this project, as the project originally requires to render the frames of our games with the ray-casting technique. 
 
